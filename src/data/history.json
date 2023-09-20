@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "otelfiyat.com",
+    "startDate": "Mar, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "I wasresponsible for designing and implementing user interfaces of web applications. I have done the necessary work to make it user-friendly and work correctly",
+      "I developed a responsive and mobile-friendly hotel detail page with Jquery",
+      "I supported the personel under the name of the IT department.",
+      "I developed multiple social media designs with Canva and Photoshop."
+    ],
+    "imageSrc": "history/otelfiyat.png"
+  },
+  {
+    "role": "Intern Frontend Developer",
+    "organisation": "Lokman Ecza Deposu",
+    "startDate": "Jan, 2022",
+    "endDate": "May, 2022",
+    "experiences": [
+      "I was responsible for designing and implementing user interfaces of web applications. I have done the necessary work to make it user-friendly and work correctly",
+      "Multiple interactive pages have been developed in the React framework to develop responsive and mobile friendly pages",
+      "Page speeds were optimized by correcting unnecessary code stacks, incorrect and faulty codes on the developed pages, and lessened style files"
+    ],
+    "imageSrc": "history/lokmaneczadeposu.png"
+  }
+]

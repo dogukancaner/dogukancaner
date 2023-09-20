@@ -1,0 +1,23 @@
+[
+  {
+    "title": "E-Commerce Filtering",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React","Redux","TailwindCSS"],
+    "source": "https://github.com/dogukancaner/e-commerce-react-redux"
+  },
+  {
+    "title": "Breaking News ",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React","Firebase","TailwindCSS"],
+    "source": "https://www.github.com/dogukancaner/news-app"
+  },
+  {
+    "title": "Responsive Landing Page",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML","TailwindCSS"],
+    "source": "https://github.com/dogukancaner/luckyeye-responsive-landing-page"
+  }
+]
